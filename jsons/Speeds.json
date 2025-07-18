@@ -14,7 +14,7 @@
         "goldenAgeLengthModifier": 0.15,
         "religiousPressureAdjacentCity": 18,
         "peaceDealDuration": 5,
-        "dealDuration": 5,
+        "dealDuration": 10,
         "startYear": -4000,
         "turns": [
             {"yearsPerTurn": 250, "untilTurn": 5},
